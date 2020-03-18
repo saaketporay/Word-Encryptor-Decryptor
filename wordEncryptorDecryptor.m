@@ -1,6 +1,6 @@
 clc;clear;
 
-%user changable
+%you are able to change the encryption and decrpytion matrix to your liking
 encryptionMatrix = [1,2,-2; -2,3,1; 3,-1,2];
 decryptionMatrix = [11,22,14; 7,9,21; 17,0,3];
 
